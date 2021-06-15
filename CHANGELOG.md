@@ -2,6 +2,36 @@
 
 The following enhancements and changes have been made to Atari Dev Studio:
 
+## 0.7.2
+
+ * Updated internal dev packages
+
+## 0.7.1
+
+ * Updated Stella to v6.5.3 (Windows, Linux [Deb], macOS). Note: Linux 32-bit is currently v6.2
+
+## 0.7.0
+
+* Updated 7800basic to v0.18 (Windows, Linux, macOS)
+
+## 0.6.9
+
+ * Updated Stella to v6.5.2 (Windows, Linux [Deb], macOS). Note: Linux 32-bit is currently v6.2
+ * Added check for 7800basic *.versa files to copy file into bin folder  
+
+## 0.6.8
+
+* Updated 7800basic to v0.17 (Windows, Linux, macOS)
+* Added new 7800basic keywords: sizeof, hiscoreclear, player2joy1 (drawhiscores)
+* Updated 7800basic hover, contexthelp and completions lists
+ 
+## 0.6.7
+
+ * Updated Stella to v6.5.1 (Windows, Linux, macOS). Note: Linux 32-bit is currently v6.2
+ * #39 [Done] Added Command Palette option 'ads: Open the Sprite Editor'
+ * #33 [InProgress] Added F1 context help for batariBasic and 7800basic linking to RandomTerrain's support pages (set cursor at word and press F1 to display help content if found)
+ * #40 [Done] Added check for 7800basic *.CC2 files (produced for 144k ROMS) to copy file into bin folder  
+ 
 ## 0.6.6
 
  * Updated hover tooltips for 7800basic keywords (plotmap, plotchars)
