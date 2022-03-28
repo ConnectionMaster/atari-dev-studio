@@ -447,7 +447,7 @@
     "dependencies": {
         "eslint": "^7.9.0",
         "find-process": "^1.4.3",
-        "minimist": "^1.2.5",
+        "minimist": "^1.2.6",
         "open": "^7.2.1",
         "tree-kill": "^1.2.2"
     },
